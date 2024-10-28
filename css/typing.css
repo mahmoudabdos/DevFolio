@@ -1,0 +1,782 @@
+/* Start Home Animation */
+.text-animation::before {
+  content: "";
+  font-size: 40px;
+  font-weight: 600;
+  -webkit-animation: typing 8s infinite;
+          animation: typing 8s infinite;
+}
+
+@-webkit-keyframes typing {
+  0% {
+    content: "";
+  }
+
+  1% {
+    content: "d";
+  }
+
+  2% {
+    content: "de";
+  }
+
+  3% {
+    content: "des";
+  }
+
+  4% {
+    content: "desi";
+  }
+
+  5% {
+    content: "desig";
+  }
+
+  6% {
+    content: "design";
+  }
+
+  7% {
+    content: "designe";
+  }
+
+  8% {
+    content: "designer";
+  }
+
+  9% {
+    content: "designer";
+  }
+
+  10% {
+    content: "designer";
+  }
+
+  11% {
+    content: "designer";
+  }
+
+  12% {
+    content: "designer";
+  }
+
+  13% {
+    content: "designer";
+  }
+
+  14% {
+    content: "design";
+  }
+
+  15% {
+    content: "desig";
+  }
+
+  16% {
+    content: "desi";
+  }
+
+  17% {
+    content: "des";
+  }
+
+  18% {
+    content: "de";
+  }
+
+  19% {
+    content: "d";
+  }
+
+  20% {
+    content: "";
+  }
+
+  21% {
+    content: "d";
+  }
+
+  22% {
+    content: "de";
+  }
+
+  23% {
+    content: "dev";
+  }
+
+  24% {
+    content: "deve";
+  }
+
+  25% {
+    content: "devel";
+  }
+
+  26% {
+    content: "develo";
+  }
+
+  27% {
+    content: "develop";
+  }
+
+  28% {
+    content: "develope";
+  }
+
+  29% {
+    content: "developer";
+  }
+
+  30% {
+    content: "developer";
+  }
+
+  31% {
+    content: "developer";
+  }
+
+  32% {
+    content: "developer";
+  }
+
+  33% {
+    content: "developer";
+  }
+
+  34% {
+    content: "developer";
+  }
+
+  35% {
+    content: "develop";
+  }
+
+  36% {
+    content: "develo";
+  }
+
+  37% {
+    content: "devel";
+  }
+
+  38% {
+    content: "deve";
+  }
+
+  39% {
+    content: "dev";
+  }
+
+  40% {
+    content: "de";
+  }
+
+  41% {
+    content: "d";
+  }
+
+  42% {
+    content: "";
+  }
+
+  43% {
+    content: "F";
+  }
+
+  44% {
+    content: "Fr";
+  }
+
+  45% {
+    content: "Fre";
+  }
+
+  46% {
+    content: "Free";
+  }
+
+  47% {
+    content: "Freel";
+  }
+
+  48% {
+    content: "Freela";
+  }
+
+  49% {
+    content: "Freelan";
+  }
+
+  50% {
+    content: "Freelanc";
+  }
+
+  51% {
+    content: "Freelance";
+  }
+
+  52% {
+    content: "Freelancer";
+  }
+
+  53% {
+    content: "Freelancer";
+  }
+
+  54% {
+    content: "Freelancer";
+  }
+
+  55% {
+    content: "Freelancer";
+  }
+
+  56% {
+    content: "Freelancer";
+  }
+
+  57% {
+    content: "Freelancer";
+  }
+
+  58% {
+    content: "Freelance";
+  }
+
+  59% {
+    content: "Freelanc";
+  }
+
+  60% {
+    content: "Freelan";
+  }
+
+  61% {
+    content: "Freela";
+  }
+
+  62% {
+    content: "Freel";
+  }
+
+  63% {
+    content: "Free";
+  }
+
+  64% {
+    content: "Fre";
+  }
+
+  65% {
+    content: "Fr";
+  }
+
+  66% {
+    content: "F";
+  }
+
+  67% {
+    content: "";
+  }
+
+  68% {
+    content: "P";
+  }
+
+  69% {
+    content: "Ph";
+  }
+
+  70% {
+    content: "Pho";
+  }
+
+  71% {
+    content: "Phot";
+  }
+
+  72% {
+    content: "Photo";
+  }
+
+  73% {
+    content: "Photog";
+  }
+
+  74% {
+    content: "Photogr";
+  }
+
+  75% {
+    content: "Photogra";
+  }
+
+  76% {
+    content: "Photograp";
+  }
+
+  77% {
+    content: "Photograph";
+  }
+
+  78% {
+    content: "Photographe";
+  }
+
+  79% {
+    content: "Photographer";
+  }
+
+  80% {
+    content: "Photographer";
+  }
+
+  81% {
+    content: "Photographer";
+  }
+
+  82% {
+    content: "Photographer";
+  }
+
+  83% {
+    content: "Photographer";
+  }
+
+  84% {
+    content: "Photographer";
+  }
+
+  85% {
+    content: "Photographe";
+  }
+
+  86% {
+    content: "Photograph";
+  }
+
+  87% {
+    content: "Photograp";
+  }
+
+  88% {
+    content: "Photogra";
+  }
+
+  89% {
+    content: "Photogr";
+  }
+
+  90% {
+    content: "Photog";
+  }
+
+  91% {
+    content: "Photo";
+  }
+
+  92% {
+    content: "Phot";
+  }
+
+  93% {
+    content: "Pho";
+  }
+
+  94% {
+    content: "Ph";
+  }
+
+  95% {
+    content: "P";
+  }
+
+}
+
+@keyframes typing {
+  0% {
+    content: "";
+  }
+
+  1% {
+    content: "d";
+  }
+
+  2% {
+    content: "de";
+  }
+
+  3% {
+    content: "des";
+  }
+
+  4% {
+    content: "desi";
+  }
+
+  5% {
+    content: "desig";
+  }
+
+  6% {
+    content: "design";
+  }
+
+  7% {
+    content: "designe";
+  }
+
+  8% {
+    content: "designer";
+  }
+
+  9% {
+    content: "designer";
+  }
+
+  10% {
+    content: "designer";
+  }
+
+  11% {
+    content: "designer";
+  }
+
+  12% {
+    content: "designer";
+  }
+
+  13% {
+    content: "designer";
+  }
+
+  14% {
+    content: "design";
+  }
+
+  15% {
+    content: "desig";
+  }
+
+  16% {
+    content: "desi";
+  }
+
+  17% {
+    content: "des";
+  }
+
+  18% {
+    content: "de";
+  }
+
+  19% {
+    content: "d";
+  }
+
+  20% {
+    content: "";
+  }
+
+  21% {
+    content: "d";
+  }
+
+  22% {
+    content: "de";
+  }
+
+  23% {
+    content: "dev";
+  }
+
+  24% {
+    content: "deve";
+  }
+
+  25% {
+    content: "devel";
+  }
+
+  26% {
+    content: "develo";
+  }
+
+  27% {
+    content: "develop";
+  }
+
+  28% {
+    content: "develope";
+  }
+
+  29% {
+    content: "developer";
+  }
+
+  30% {
+    content: "developer";
+  }
+
+  31% {
+    content: "developer";
+  }
+
+  32% {
+    content: "developer";
+  }
+
+  33% {
+    content: "developer";
+  }
+
+  34% {
+    content: "developer";
+  }
+
+  35% {
+    content: "develop";
+  }
+
+  36% {
+    content: "develo";
+  }
+
+  37% {
+    content: "devel";
+  }
+
+  38% {
+    content: "deve";
+  }
+
+  39% {
+    content: "dev";
+  }
+
+  40% {
+    content: "de";
+  }
+
+  41% {
+    content: "d";
+  }
+
+  42% {
+    content: "";
+  }
+
+  43% {
+    content: "F";
+  }
+
+  44% {
+    content: "Fr";
+  }
+
+  45% {
+    content: "Fre";
+  }
+
+  46% {
+    content: "Free";
+  }
+
+  47% {
+    content: "Freel";
+  }
+
+  48% {
+    content: "Freela";
+  }
+
+  49% {
+    content: "Freelan";
+  }
+
+  50% {
+    content: "Freelanc";
+  }
+
+  51% {
+    content: "Freelance";
+  }
+
+  52% {
+    content: "Freelancer";
+  }
+
+  53% {
+    content: "Freelancer";
+  }
+
+  54% {
+    content: "Freelancer";
+  }
+
+  55% {
+    content: "Freelancer";
+  }
+
+  56% {
+    content: "Freelancer";
+  }
+
+  57% {
+    content: "Freelancer";
+  }
+
+  58% {
+    content: "Freelance";
+  }
+
+  59% {
+    content: "Freelanc";
+  }
+
+  60% {
+    content: "Freelan";
+  }
+
+  61% {
+    content: "Freela";
+  }
+
+  62% {
+    content: "Freel";
+  }
+
+  63% {
+    content: "Free";
+  }
+
+  64% {
+    content: "Fre";
+  }
+
+  65% {
+    content: "Fr";
+  }
+
+  66% {
+    content: "F";
+  }
+
+  67% {
+    content: "";
+  }
+
+  68% {
+    content: "P";
+  }
+
+  69% {
+    content: "Ph";
+  }
+
+  70% {
+    content: "Pho";
+  }
+
+  71% {
+    content: "Phot";
+  }
+
+  72% {
+    content: "Photo";
+  }
+
+  73% {
+    content: "Photog";
+  }
+
+  74% {
+    content: "Photogr";
+  }
+
+  75% {
+    content: "Photogra";
+  }
+
+  76% {
+    content: "Photograp";
+  }
+
+  77% {
+    content: "Photograph";
+  }
+
+  78% {
+    content: "Photographe";
+  }
+
+  79% {
+    content: "Photographer";
+  }
+
+  80% {
+    content: "Photographer";
+  }
+
+  81% {
+    content: "Photographer";
+  }
+
+  82% {
+    content: "Photographer";
+  }
+
+  83% {
+    content: "Photographer";
+  }
+
+  84% {
+    content: "Photographer";
+  }
+
+  85% {
+    content: "Photographe";
+  }
+
+  86% {
+    content: "Photograph";
+  }
+
+  87% {
+    content: "Photograp";
+  }
+
+  88% {
+    content: "Photogra";
+  }
+
+  89% {
+    content: "Photogr";
+  }
+
+  90% {
+    content: "Photog";
+  }
+
+  91% {
+    content: "Photo";
+  }
+
+  92% {
+    content: "Phot";
+  }
+
+  93% {
+    content: "Pho";
+  }
+
+  94% {
+    content: "Ph";
+  }
+
+  95% {
+    content: "P";
+  }
+
+}
