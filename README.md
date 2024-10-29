@@ -2,9 +2,6 @@
 # DevFolio
 
 **DevFolio** is a clean, professional, and responsive portfolio template crafted for developers, designers, and freelancers to showcase their work and skills. Built with **HTML**, **CSS**, and **Bootstrap**, this template offers a polished design and a fully responsive layout, making it ideal for personal and professional portfolios on any device.
-
-![DevFolio Screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your template -->
-
 ---
 
 ## About the Project
